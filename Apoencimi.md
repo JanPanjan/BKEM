@@ -1,0 +1,1 @@
+[[Proteini in peptidi|Proteinske]] [[Struktura encimov|strukturne komponente encimov]]. Rečemo jim tudi **apoproteini**.

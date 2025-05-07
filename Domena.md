@@ -1,0 +1,1 @@
+Domena je funkcionalno in strukturno samostojna enota v beljakovini, ki se pogosto lahko samostojno zvije in ima specifično funkcijo.

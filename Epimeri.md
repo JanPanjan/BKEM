@@ -1,0 +1,1 @@
+Vrsta [[Diastereomeri|diasteromerov]], ki se razlikujejo samo v **enem** [[Kiralni centri|kiralnem centru]], medtem ko so ostali enako [[Konfiguracijski (configurational) izomeri|konfigurirani]].

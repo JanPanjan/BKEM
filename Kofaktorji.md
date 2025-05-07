@@ -1,0 +1,1 @@
+Dodatne [[Struktura encimov|strukturne komponente]], ki jih nekateri [[Encimi]] potrebujejo za delovanje. Kofaktor je lahko eden ali več anorganskih [[Ioni|ionov]] ($\ce{Fe^2+, \ Mg^{2+}, \ Mn^{2+}, \ Zn^{2+}}$) ali [[Koencim|koencim]].

@@ -1,0 +1,1 @@
+Del [[Konjugirani proteini|konjugiranega proteina]], ki ni del [[Aminokisline]].  Pomembno vlogo imajo v biološki funckiji proteina.

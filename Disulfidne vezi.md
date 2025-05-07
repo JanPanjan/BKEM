@@ -1,0 +1,1 @@
+[[Kovalentne vezi]], ki nastanejo med dvema [[cistein|cisteinskima]] ostankoma v proteinu. Te vezi igrajo ključno vlogo pri stabilizaciji [[3D strukture proteinov|terciarne in kvartarne strukture proteinov]].

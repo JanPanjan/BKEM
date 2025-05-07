@@ -1,0 +1,1 @@
+Npr. [[Steroli]] in njihovi derivati ([[Steroidni hormoni]]).

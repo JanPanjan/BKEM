@@ -1,0 +1,1 @@
+Oblika [[3D strukture proteinov]], kjer se [[Proteini in peptidi|proteini]] zvijejo v najbolj termodinamično stabilne [[Konformacijski (conformational) izomeri|konformacije]]. Pravimo jim **nativni proteini**.

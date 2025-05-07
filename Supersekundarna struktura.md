@@ -1,0 +1,1 @@
+Ponavljajoča se kombinacija elementov sekundarne strukture, kot so alfa vijačnice in beta plošče, ki tvorijo stabilne strukturne motive, kot so beta-alfa-beta motivi, beta-sodi, helix-turn-helix motivi itd.

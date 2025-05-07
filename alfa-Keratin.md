@@ -1,0 +1,1 @@
+Vrsta [[Vlaknati (fibrous) proteini|vlaknatih proteinov]]. Razvili so se, da dajejo organizmu moč in trdnost. Pri sesalcih jih najdemo v laseh, nohtih, volni, krempljih, kopitah, kljunih in večino zunanjega sloja kože.

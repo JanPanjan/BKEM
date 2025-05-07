@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "09cfadac29c4f24d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4b45f799b875803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a315402d47b670ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/vprasanja/VPR-Glikoliza.pdf"
+              }
+            }
+          },
+          {
+            "id": "2e56b9e21430e616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from lotus/Kontrolne točke v glikolizi.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0998fa395c704d90",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cfcb68f97a352ff0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "cd42fc2dfad3a57f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9e4dfd4df584a7c0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d941479c788f0bc1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d7bed4398b8d9f27",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e1a225d2e46dac7c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "files/vprasanja/VPR-Glikoliza.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0f72749f2fe4ab53",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "files/vprasanja/VPR-Glikoliza.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "692bb431d1a40e7d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "files/vprasanja/VPR-Glikoliza.pdf"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a315402d47b670ad",
+  "lastOpenFiles": [
+    "from lotus/Kontrolne točke v glikolizi.md",
+    "from lotus/Reakcije glikolize.md",
+    "from lotus/6-10 reakcije glikolize.md",
+    "from lotus/1-5 reakcije glikolize.md",
+    "from lotus/Glikoliza.md",
+    "files/vprasanja/VPR-Glikoliza.pdf",
+    "VSE AMINOKISLINE.md",
+    "Bazične aminokisline.md",
+    "Aminokisline z aromatskimi R skupinami.md",
+    "Hidrofilne aminokisline.md",
+    "Hidrofobne aminokisline.md",
+    "Kemijske lastnosti aminokislin.md",
+    "Kisle aminokisline.md",
+    "![[Hidrofobne aminokisline.md",
+    "Aminokisline.md",
+    "Aminokisline_peptidi-vprašanja.md",
+    "§Vprasanja-odgovori.md",
+    "Hidrofobne interakcije.md",
+    "Polisaharidi.md",
+    "Vodikove vezi.md",
+    "Elektrostatična privlačnost in elektronegativnost.md",
+    "van der Waalsove sile.md",
+    "Kemijske vezi.md",
+    "Ionske vezi.md",
+    "§Encimi-vprasanja.md",
+    "files/Pasted image 20240807230236.png",
+    "files/vpr_ogljikovi-hidrati.pdf",
+    "Membrane-vprašanja.md",
+    "Oligosaharidi.md",
+    "files/Pasted image 20240809201414.png",
+    "files/vpr_MEMBRANE.pdf",
+    "files/Pasted image 20240809140141.png",
+    "files/Pasted image 20240809195821.png",
+    "files/Pasted image 20240809140518.png",
+    "files/Pasted image 20240809132439.png",
+    "files/Pasted image 20240809205201.png",
+    "files/Pasted image 20240809195355.png",
+    "files/Pasted image 20240809202748.png",
+    "files/vpr_ORGANIZACIJA_CELIC.pdf",
+    "files/Pasted image 20240809201125.png",
+    "files/vpr_AK_PEPTIDI.pdf"
+  ]
+}

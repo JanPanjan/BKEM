@@ -1,0 +1,1 @@
+Odvisni so od kisika. Nekateri ga izkoriščajo za sintezo energije, tako da prenašajo elektrone od *fuel* molekul do kisika. 

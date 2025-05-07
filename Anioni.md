@@ -1,0 +1,1 @@
+Negativno nabiti [[Ioni]]. Nastanejo s pridobitvijo enega ali več elektronov. Primer je atom klora, ki pridobi elektron, da nastane klorid $\ce{Cl-}$.

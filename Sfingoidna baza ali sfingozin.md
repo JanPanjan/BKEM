@@ -1,0 +1,1 @@
+Osnovna komponenta [[Sfingolipidi|sfingolipidov]] je sfingoidna baza, najpogosteje **sfingozin**. Sfingozin je dolgoverižni aminoalkohol.

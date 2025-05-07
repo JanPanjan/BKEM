@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "files",
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "livePreview": true,
+  "useMarkdownLinks": false
+}

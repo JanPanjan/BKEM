@@ -1,0 +1,1 @@
+**Ceramid** je osnovna struktura mnogih [[Sfingolipidi|sfingolipidov]]. Nastane, ko se na [[Sfingoidna baza ali sfingozin|sfingozin]] veže [[Maščobne kisline|maščobna kislina]] preko amidne vezi.

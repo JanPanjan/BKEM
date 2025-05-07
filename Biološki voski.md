@@ -1,0 +1,1 @@
+Biološki voski so ==estri==, sestavljeni iz dolgoverižnega alkohola in [[Maščobne kisline]]. So [[Hidrofobne molekule|hidrofobni]] in so ključni za zaščito in izolacijo v različnih organizmih, kot so [[Tri domene življenja|rastline in živali]].

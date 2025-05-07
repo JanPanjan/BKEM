@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "65d261205b24b461",
+    "type": "split",
+    "children": [
+      {
+        "id": "31968d8a6c48d590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83b1f6fe21fbcf88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alfa heliksi.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alfa heliksi"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1874166c9c174a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5181f7664181d2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d452417e6b4616d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58ecfe4e3067bf8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f309051ca42e54bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6f3fc03b8acde735",
+    "type": "split",
+    "children": [
+      {
+        "id": "f025bda7c0261887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463a5d975bcbae39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Alfa heliksi.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Alfa heliksi"
+            }
+          },
+          {
+            "id": "d4871e43cfdc4dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5e0fb5bfca751a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Alfa heliksi.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Alfa heliksi"
+            }
+          },
+          {
+            "id": "a7413c1c86fdaff8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Alfa heliksi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Alfa heliksi"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "83b1f6fe21fbcf88",
+  "lastOpenFiles": [
+    "Amilopektin.md",
+    "alanin.md",
+    "3D struktura molekul.md",
+    "§Poglavja-Biokemija.md",
+    "§Vprasanja-odgovori.md",
+    "TODO.md",
+    "from lotus/8 - Medmolekulski premik fosfatne skupine.md",
+    "from lotus/6-10 reakcije glikolize.md",
+    "from lotus/10 - Pretvorba fosfenolpiruvata v piruvat.md",
+    "from lotus/Kontrolne točke v glikolizi.md",
+    "from lotus/Reakcije glikolize.md",
+    "from lotus/1-5 reakcije glikolize.md",
+    "from lotus/4 - Razcep fruktoze 1,6-bisfosfata.md",
+    "from lotus/9 - Dehidracija 2-fosfoglicerata.md",
+    "from lotus/7 - Pretvorba 1,3-bifosfoglicerata.md",
+    "from lotus/6 - Dehidrogenacija gliceraldehida-3-fosfata.md",
+    "from lotus/5 - Izomerizacija dihidroksiaceton fosfata.md",
+    "from lotus/3 - Fosforilacija fruktoza-6-fosfata.md",
+    "from lotus/2 - Izomerizacija glukoza-6-fosfata.md",
+    "from lotus/1 - sprejem in fosforilacija glukoze.md",
+    "from lotus/Glikoliza.md",
+    "from lotus/Aerobni metabolizem.md",
+    "from lotus/Anaerobni metabolizem.md",
+    "Aerobni organizmi.md",
+    "Metabolizem ogljikovih hidratov.md",
+    "from lotus/OKEM-Alkani.md",
+    "files/vprasanja/VPR-TCA.pdf",
+    "files/vprasanja/VPR-Nadzor_metabolizma.pdf",
+    "files/vprasanja/VPR-Glikoliza.pdf",
+    "files/vprasanja/VPR-Encimi.pdf",
+    "files/vprasanja/VPR-3D_struktura_proteinov.pdf",
+    "files/vprasanja/vpr_ORGANIZACIJA_CELIC.pdf",
+    "files/vprasanja/vpr_ogljikovi-hidrati.pdf",
+    "files/vprasanja/vpr_MEMBRANE.pdf",
+    "files/vprasanja/vpr_AK_PEPTIDI.pdf",
+    "files/vprasanja/David L. Nelson, Michael M. Cox - Lehninger's Principles of biochemistry-W. H. Freeman (2004).pdf",
+    "files/Pasted image 20240811150616.png",
+    "files/Pasted image 20240811150258.png",
+    "files/Pasted image 20240811150035.png",
+    "files/Pasted image 20240811145939.png",
+    "files/Pasted image 20240811145315.png",
+    "files/Pasted image 20240811145259.png",
+    "files/Pasted image 20240810163013.png",
+    "files/Pasted image 20240810162946.png",
+    "files/Pasted image 20240810162654.png",
+    "files/Pasted image 20240810162341.png"
+  ]
+}
