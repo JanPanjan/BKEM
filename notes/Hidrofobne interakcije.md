@@ -2,7 +2,7 @@ Vrsta interakcij/sil med **nepolarnimi in polarnimi** deli molekul. Moč sile ni
 
 Nastajajo v [[Voda|vodi]] ob prisotnosti [[Amfifilne molekule|amfifilnih molekul]], in sicer, kot posledica največjega termodinamičnega ravnovesja sistema, tako da sistem  čimbolj zmanjša število vodnih molekul, potrebnih, da obkrožijo [[Hidrofobne molekule|hidrofobne]] dele molekul (jeez).
 
-![[BKEM/files/miceli.png|400]]
+![[miceli.png|400]]
 
 ---
 

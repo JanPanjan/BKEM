@@ -11,4 +11,4 @@ Po **odstranitvi** sečnine in reducirajočega reagenta, se ribonukleza spontano
 
 <br>
 
-![[BKEM/files/ribonukleaza.png]]
+![[ribonukleaza.png]]

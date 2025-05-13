@@ -6,7 +6,7 @@ Poznamo več oblik izomerov.
 
 ---
 
-![[BKEM/files/Izomerija-20240712155044686.webp]]
+![[Izomerija-20240712155044686.webp]]
 
 ---
 

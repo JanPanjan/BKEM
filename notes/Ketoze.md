@@ -6,6 +6,6 @@ Links: [[Ciklizacija ketoz - hemiketal]]
 
 # Primeri ketoz
 
-![[BKEM/files/ketoze.png|500]]
+![[ketoze.png|500]]
 
 >Fruktoza je edina KETOZA, ki jo moram znat na pamet.
